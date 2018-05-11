@@ -10,7 +10,7 @@
 #
 # For example, flowers[i] = x means that the unique flower that blooms at day i
 # will be at position x, where i and x will be in the range from 1 to N.
-#
+# . succ dicc
 # Also given an integer k, you need to output in which day there exists two flowers
 # in the status of blooming, and also the number of flowers between them is k and
 # these flowers are not blooming.
